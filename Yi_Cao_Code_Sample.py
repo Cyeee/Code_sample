@@ -1,8 +1,6 @@
 
 # coding: utf-8
 
-# In[712]:
-
 '''
 Created on December 22 2017
 @auther: Yi Cao
@@ -257,10 +255,6 @@ def cvt_cat_num(data,cat,cat_out,id_var,target,nfolds=5,r1=0.4,r2=0.6):
 
 
 
-    
-
-
-# In[713]:
 
 if __name__=="__main__":
     '''
