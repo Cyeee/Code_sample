@@ -152,7 +152,7 @@ class pre_clean:
     
     '''
     fit_new_data function will apply the saved previous fit data preprocessing to new_data directly. 
-    Demon code can be found below
+    Demo code can be found below
     '''
     '''
     Input parametre:
